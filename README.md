@@ -14,7 +14,7 @@ Built with Flutter’s Material UI, HTTP networking, and dropdown menus for smoo
 
 - 📱 Modern Material UI design with dropdown menus
 
-- 🌐 Live rates fetched from ExchangeRate API
+- 🌐 Live rates fetched from [ExchangeRate API](https://www.exchangerate-api.com/)
 
 - 🎨 Dark-themed interface
 
