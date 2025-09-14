@@ -58,6 +58,6 @@ git checkout master
 
 4. **Get an API key**
 
-- Sign up at [ExchangeRate API](https://www.exchangerate-api.com/)
+  - Sign up at [ExchangeRate API](https://www.exchangerate-api.com/)
 
-- Copy your API key
+  - Copy your API key
