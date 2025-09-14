@@ -1,3 +1,5 @@
+
+
 # 💱Universal Currency Converter
 
 A simple Flutter app that converts between different world currencies using **live exchange rates**.
@@ -61,5 +63,19 @@ flutter pub get
 4. **Get an API key**
 - Follow these steps to get your API key:
   - Sign up at [ExchangeRate API](https://www.exchangerate-api.com/)
-
   - Copy your API key
+
+5. **Run the app**
+- **Option A: With .env (local development)**
+  1. Create a `.env` file in the root:
+     ```
+     API_KEY=your_api_key_here
+     ```
+  2. Load it using [flutter_dotenv](https://pub.dev/packages/flutter_dotenv)
+- **Option B: With --dart-define (production / builds)**
+  1. Pass the key at runtime:
+     ```
+     flutter run --dart-define=API_KEY=your_api_key_here
+     ```
+## 🚀 Deployment (GitHub Pages)
+1. 
