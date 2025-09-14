@@ -54,10 +54,12 @@ git checkout master
 
 3. **Install dependencies**
 
-```flutter pub get```
+```
+flutter pub get
+```
 
 4. **Get an API key**
-
+- 
   - Sign up at [ExchangeRate API](https://www.exchangerate-api.com/)
 
   - Copy your API key
