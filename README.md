@@ -59,7 +59,7 @@ flutter pub get
 ```
 
 4. **Get an API key**
-- 
+- Follow these steps to get your API key:
   - Sign up at [ExchangeRate API](https://www.exchangerate-api.com/)
 
   - Copy your API key
