@@ -42,8 +42,9 @@ Built with Flutter’s Material UI, HTTP networking, and dropdown menus for smoo
 
 1. **Clone the repo**
 ```
-git clone https://github.com/your-username/currency-converter.git
-cd currency-converter
+git clone https://github.com/harsh-26626/congenial-canival.git
+
+cd congenial-canival
 ```
 
 2. **Change branch to `master`**
