@@ -5,7 +5,7 @@ Built with Flutter’s Material UI, HTTP networking, and dropdown menus for smoo
 
 ---
 
-##✨ Features
+## ✨ Features
 
 - 🔄 Convert between 100+ currencies (USD, INR, EUR, JPY, and many more)
 
