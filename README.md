@@ -35,7 +35,7 @@ Built with Flutter’s Material UI, HTTP networking, and dropdown menus for smoo
 - **HTTP package for API requests**
 
 - **ExchangeRate API for live rates**
-- 
+
 ---
 
 ## ⚙️ Setup & Installation
