@@ -19,3 +19,44 @@ Built with Flutter’s Material UI, HTTP networking, and dropdown menus for smoo
 - 🎨 Dark-themed interface
 
 ---
+
+## 📸 Screenshots
+
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter (Dart)**
+
+- **HTTP package for API requests**
+
+- **ExchangeRate API for live rates**
+
+
+
+---
+
+## ⚙️ Setup & Installation
+
+1. **Clone the repo**
+```
+git clone https://github.com/your-username/currency-converter.git
+cd currency-converter
+```
+
+2. **Change branch to `master`**
+```
+git checkout -m master
+```
+
+3. **Install dependencies**
+
+`flutter pub get`
+
+4. **Get an API key**
+
+- Sign up at [ExchangeRate API](https://www.exchangerate-api.com/)
+
+- Copy your API key
