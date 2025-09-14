@@ -24,7 +24,7 @@ Built with Flutter’s Material UI, HTTP networking, and dropdown menus for smoo
 
 ## 📸 Screenshots
 
-
+<img width="227" height="500" alt="Screenshot 2025-09-14 141730" src="https://github.com/user-attachments/assets/7a0f7652-7d5d-4efd-bfe4-d0805f81b3ae" /> <img width="227" height="500" alt="Screenshot 2025-09-14 141816" src="https://github.com/user-attachments/assets/da1ad3f0-873a-45c2-87ef-52c44ea34295" /> <img width="227" height="500" alt="Screenshot 2025-09-14 141844" src="https://github.com/user-attachments/assets/9988edf3-1bc1-4b13-9001-461aed54c0bf" />
 
 ---
 
@@ -35,9 +35,7 @@ Built with Flutter’s Material UI, HTTP networking, and dropdown menus for smoo
 - **HTTP package for API requests**
 
 - **ExchangeRate API for live rates**
-
-
-
+- 
 ---
 
 ## ⚙️ Setup & Installation
@@ -77,5 +75,16 @@ flutter pub get
      ```
      flutter run --dart-define=API_KEY=your_api_key_here
      ```
-## 🚀 Deployment (GitHub Pages)
-1. 
+
+---
+
+## 📂 Project Structure
+```
+lib/
+ └── currency_converter.dart   # Main app widget
+pubspec.yaml                  # Dependencies & metadata
+.env                          # API key (local only, don’t commit!)
+```
+
+---
+
