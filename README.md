@@ -49,12 +49,12 @@ cd congenial-canival
 
 2. **Change branch to `master`**
 ```
-git checkout -m master
+git checkout master
 ```
 
 3. **Install dependencies**
 
-`flutter pub get`
+```flutter pub get```
 
 4. **Get an API key**
 
